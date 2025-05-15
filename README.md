@@ -2,6 +2,10 @@
 
 A simple Chrome extension that creates a rounded popup with a "Hello World" message when clicked.
 
+
+![image](https://github.com/user-attachments/assets/231c0bb1-1c77-493c-9714-774da1198ea0)
+
+
 ## Example
 
 ![Chrome Extension Rounded Popup Corners Example](https://raw.githubusercontent.com/iamOmarFaruk/chrome-extension-rounded-popup-corners/refs/heads/main/example.png)
